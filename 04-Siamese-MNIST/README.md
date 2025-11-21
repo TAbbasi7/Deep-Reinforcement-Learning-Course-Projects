@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TAbbasi7/Deep-Reinforcement-Learning-Course-Projects/blob/main/04-Siamese-MNIST/Siamese_OneShot_Learning.ipynb)
 # One-Shot Learning with Siamese Networks 👯
 
 Implementation of a Siamese Network using Contrastive Loss to distinguish between digit pairs (similar vs. dissimilar). This approach is crucial for One-Shot Learning tasks.

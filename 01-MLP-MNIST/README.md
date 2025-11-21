@@ -1,3 +1,5 @@
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TAbbasi7/Deep-Reinforcement-Learning-Course-Projects/blob/main/01-MLP-MNIST/MLP_Digit_Classification.ipynb)
 # MNIST Classification using MLP (TensorLayer) 🔢
 
 A fundamental implementation of a Multi-Layer Perceptron using the `TensorLayer` library.

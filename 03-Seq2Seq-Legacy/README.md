@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TAbbasi7/Deep-Reinforcement-Learning-Course-Projects/blob/main/03-Seq2Seq-Legacy/Legacy_Seq2Seq_Chatbot_Analysis.ipynb)
 # Legacy Seq2Seq Chatbot Analysis 🤖
 
 An experimental implementation of a basic LSTM-based Encoder-Decoder chatbot.

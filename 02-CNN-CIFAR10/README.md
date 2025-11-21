@@ -1,3 +1,5 @@
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TAbbasi7/Deep-Reinforcement-Learning-Course-Projects/blob/main/02-CNN-CIFAR10/CNN_Object_Recognition.ipynb)
 # CIFAR-10 Image Classification with CNN 🖼️
 
 Implementation of a Convolutional Neural Network (CNN) to classify images into 10 categories (airplane, automobile, bird, etc.).
